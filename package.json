@@ -1,7 +1,7 @@
 {
   "name": "bottom-ui",
   "theme": "ui",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Bottom monochrome theme UI inspired by iA Writer and Apex",
   "keywords": [
     "apex",
@@ -11,9 +11,10 @@
     "theme",
     "writer",
     "dark",
-    "night"
+    "night",
+    "plain"
   ],
-  "repository": "https://github.com/smebdynbdy/bottom-ui",
+  "repository": "https://github.com/SmebdyNbdy/bottom-ui",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
