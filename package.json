@@ -1,17 +1,19 @@
 {
-  "name": "apex-ui",
+  "name": "bottom-ui",
   "theme": "ui",
-  "version": "1.2.0",
-  "description": "Apex monochrome theme UI inspired by iA Writer",
+  "version": "0.0.1",
+  "description": "Bottom monochrome theme UI inspired by iA Writer and Apex",
   "keywords": [
     "apex",
     "monochrome",
     "ui",
     "ia",
     "theme",
-    "writer"
+    "writer",
+    "dark",
+    "night"
   ],
-  "repository": "https://github.com/apex/apex-ui",
+  "repository": "https://github.com/smebdynbdy/bottom-ui",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
